@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Resanat/blog/static/css/main.21ea3c66.css",
+    "main.js": "/Resanat/blog/static/js/main.2c8b8830.js",
+    "index.html": "/Resanat/blog/index.html",
+    "main.21ea3c66.css.map": "/Resanat/blog/static/css/main.21ea3c66.css.map",
+    "main.2c8b8830.js.map": "/Resanat/blog/static/js/main.2c8b8830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ea3c66.css",
+    "static/js/main.2c8b8830.js"
+  ]
+}
